@@ -1,0 +1,12 @@
+Hi Ali!
+
+We've found the best article for you based on your interest: Data Science
+Please click www.google.com to open the article
+Hi Huzaifa!
+
+We've found the best article for you based on your interest: Artificial Intelligence
+Please click www.google.com to open the article
+Hi Saboor!
+
+We've found the best article for you based on your interest: Backend Development
+Please click www.google.com to open the article
