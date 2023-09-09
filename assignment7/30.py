@@ -74,7 +74,7 @@ for i in range(5):
     new_start_tz_aware_datetime = convert_tz(start_tz_aware_datetime, "UTC")
     new_end_tz_aware_datetime = convert_tz(end_tz_aware_datetime, "UTC")
     if is_slot_available(booking_storage, new_start_tz_aware_datetime, new_end_tz_aware_datetime) :
-       book_the_car(booking_storage, new_start_tz_aware_datetime, new_end_tz_aware_datetime)
+        book_the_car(booking_storage, new_start_tz_aware_datetime, new_end_tz_aware_datetime)
     else:
         print("Booking for USER %d cannot be successfully save due to inavailability of time slots" %(i+1))
     print(booking_storage)
